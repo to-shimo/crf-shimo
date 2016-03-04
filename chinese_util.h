@@ -1,3 +1,6 @@
+#ifndef SHIMO_CHINESE_UTIL_H
+#define SHIMO_CHINESE_UTIL_H
+
 #include <stdlib.h>
 #include <string.h>
 
@@ -49,3 +52,6 @@ bool crfshimo_string_normalize(const char* pszStr, int iLen,
 **/
 char* crfshimo_to_half_lower(const char* pszSrcIn, int iSrcsize, 
     char* pszDest, int iDestsize, int* piLenIdx, int iLenMax);
+
+#endif
+
