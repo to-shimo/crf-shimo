@@ -12,7 +12,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see example/chseg/train.sh </p>
 <p><b>&nbsp;&nbsp;&nbsp;&nbsp;test: </b></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see example/chseg/test.sh </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can download a pre-trained chinese model(utf8) from http://pan.baidu.com/s/1eRbYelW</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can download a pre-trained chinese model(utf8,trained by 10073281 sentences and 56397344 features) from http://pan.baidu.com/s/1eRbYelW</p>
 
 <p><b>ChangeLog: </b></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;@2016.02.18 toshimo </p>
